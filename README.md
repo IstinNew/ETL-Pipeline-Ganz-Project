@@ -1,7 +1,7 @@
 # ETL Pipeline Ganz Project
 
 ## Project Overview
-The ETL Pipeline Ganz project is designed to showcase an end-to-end data engineering pipeline. The project involves collecting data through web scraping or APIs, storing the data in a MySQL database, moving the pipeline to the cloud using (Input), and automating the entire data collection and storage process.
+The End-to-end (ETL) Pipeline Ganz project is designed to showcase an end-to-end data engineering pipeline. The project involves collecting data through web scraping or APIs, storing the data in a MySQL database, moving the pipeline to the cloud using (Input), and automating the entire data collection and storage process.
 
 ## How I Built It
 The project is built using Python for data processing, MySQL for data storage, and (Input) for cloud deployment. The key steps include:
