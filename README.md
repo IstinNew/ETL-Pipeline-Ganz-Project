@@ -16,7 +16,7 @@ The project is built using Python for data processing, MySQL for data storage, a
 
 ## Project Structure
 - `scripts/`: Python scripts for data extraction, transformation, and loading.
-- `queries/`: SQL run scripts for storage and querying.
+- `queries/`: SQL run scripts for storage and querying. _(not complete at this stage)_
 - `data/`: Directory for data files, charts, presentations etc.
 - `config/`: Configuration files for database and settings.
 
