@@ -4,7 +4,7 @@
 The end-to-end EXTRACT -TRANSFER - LOAD (ETL) Pipeline Ganz project is designed to showcase an end-to-end data engineering pipeline. The project involves collecting data through web scraping or APIs, storing the data in a MySQL database, moving the pipeline to the cloud using Google Cloud Analytics, and automating the entire data collection and storage process.
 
 ## Project Mind Map
-- Check the below for a graphical representation of the Project Mind Map.
+- Graphical Representation
 ![image](https://github.com/user-attachments/assets/1fc3f4fc-4f6d-47cc-a894-d5ff5b098003)
 
 ## How I Built It
