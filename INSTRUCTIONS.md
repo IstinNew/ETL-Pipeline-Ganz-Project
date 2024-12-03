@@ -35,8 +35,8 @@ pip install -r requirements.txt
 
 ## "Do-Not-Forget" Section
 - Input all user settings in the uploaded scripts such as
-- Host server details like (server IP, username, password, port etc.)
-- SQL schema name to facilitate Python-SQL Push Pull Requests
+   - Host server details like (server IP, username, password, port etc.)
+   - SQL schema name to facilitate Python-SQL Push Pull Requests
 - Cities data scrapped from
    - [Berlin](https://en.wikipedia.org/wiki/Berlin)
    - [Hamburg](https://en.wikipedia.org/wiki/Hamburg)
