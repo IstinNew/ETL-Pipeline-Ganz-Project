@@ -29,6 +29,12 @@ pip install -r requirements.txt
    DB_USER=your_database_user
    DB_PASS=your_database_password
 
+## Project Mind Map
+- Check the below for a graphical representation of the Project Mind Map.
+![image](https://github.com/user-attachments/assets/1fc3f4fc-4f6d-47cc-a894-d5ff5b098003)
+
+## Input
+- Input
 
 
 
