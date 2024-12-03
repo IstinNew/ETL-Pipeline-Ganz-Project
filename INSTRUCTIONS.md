@@ -33,8 +33,16 @@ pip install -r requirements.txt
 - Check the below for a graphical representation of the Project Mind Map.
 ![image](https://github.com/user-attachments/assets/1fc3f4fc-4f6d-47cc-a894-d5ff5b098003)
 
-## Input
-- Input
+## "Do-Not-Forget" Section
+- Input all user settings in the uploaded scripts such as
+- Host server details like (server IP, username, password, port etc.)
+- SQL schema name to facilitate Python-SQL Push Pull Requests
+- Cities data scrapped from
+-    [Berlin](https://en.wikipedia.org/wiki/Berlin)
+-    [Hamburg](https://en.wikipedia.org/wiki/Hamburg)
+-    [Munich](https://en.wikipedia.org/wiki/Munich)
+- Weather API Keys on [OpenWeather](http://api.openweathermap.org) 
+- Flight API Keys on AeroDataBox [Rapid API](https://rapidapi.com/aedbx-aedbx/api/aerodatabox)
 
 
 
