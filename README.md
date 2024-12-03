@@ -46,32 +46,6 @@ The project is built using Python for data processing, MySQL for data storage, a
 - **Cloud Deployment**: Successfully deployed the ETL pipeline to Google Cloud Analytics for enhanced performance and scalability.
 - **Automation**: Automated the data collection and storage process, reducing manual intervention.
 
-## Most Common Libraries Used
-- **Pandas**: For data manipulation and analysis.
-  - Installation: `pip install pandas`
-  - Import: `import pandas as pd`
-- **NumPy**: For numerical operations.
-  - Installation: `pip install numpy`
-  - Import: `import numpy as np`
-- **BeautifulSoup**: For web scraping.
-  - Installation: `pip install beautifulsoup4`
-  - Import: `from bs4 import BeautifulSoup`
-- **Requests**: For making HTTP requests.
-  - Installation: `pip install requests`
-  - Import: `import requests`
-- **Seaborn**: For data visualization.
-  - Installation: `pip install seaborn`
-  - Import: `import seaborn as sns`
-- **SQLAlchemy**: For connecting Python to SQL databases.
-  - Installation: `pip install SQLAlchemy`
-  - Import: `from sqlalchemy import create_engine`
-- **PyMySQL**: For connecting to MySQL databases.
-  - Installation: `pip install PyMySQL`
-  - Import: `import pymysql`
-- **Apache Airflow**: For orchestrating the ETL process.
-  - Installation: `pip install apache-airflow`
-  - Import: `import airflow`
-
 ## Getting Started
 Refer to the INSTRUCTIONS.md file for detailed steps on setting up and running the ETL pipeline.
 
