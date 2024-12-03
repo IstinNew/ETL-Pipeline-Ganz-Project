@@ -38,9 +38,9 @@ pip install -r requirements.txt
 - Host server details like (server IP, username, password, port etc.)
 - SQL schema name to facilitate Python-SQL Push Pull Requests
 - Cities data scrapped from
--    [Berlin](https://en.wikipedia.org/wiki/Berlin)
--    [Hamburg](https://en.wikipedia.org/wiki/Hamburg)
--    [Munich](https://en.wikipedia.org/wiki/Munich)
+   - [Berlin](https://en.wikipedia.org/wiki/Berlin)
+   - [Hamburg](https://en.wikipedia.org/wiki/Hamburg)
+   - [Munich](https://en.wikipedia.org/wiki/Munich)
 - Weather API Keys on [OpenWeather](http://api.openweathermap.org) 
 - Flight API Keys on AeroDataBox [Rapid API](https://rapidapi.com/aedbx-aedbx/api/aerodatabox)
 
