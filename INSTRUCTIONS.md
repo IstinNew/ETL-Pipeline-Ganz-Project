@@ -12,6 +12,32 @@ Before setting up the pipeline, ensure you have the following:
 - MySQL Workbench
 - Environment variables configured for database access
 
+## Most Common Libraries Used
+- **Pandas**: For data manipulation and analysis.
+  - Installation: `pip install pandas`
+  - Import: `import pandas as pd`
+- **NumPy**: For numerical operations.
+  - Installation: `pip install numpy`
+  - Import: `import numpy as np`
+- **BeautifulSoup**: For web scraping.
+  - Installation: `pip install beautifulsoup4`
+  - Import: `from bs4 import BeautifulSoup`
+- **Requests**: For making HTTP requests.
+  - Installation: `pip install requests`
+  - Import: `import requests`
+- **Seaborn**: For data visualization.
+  - Installation: `pip install seaborn`
+  - Import: `import seaborn as sns`
+- **SQLAlchemy**: For connecting Python to SQL databases.
+  - Installation: `pip install SQLAlchemy`
+  - Import: `from sqlalchemy import create_engine`
+- **PyMySQL**: For connecting to MySQL databases.
+  - Installation: `pip install PyMySQL`
+  - Import: `import pymysql`
+- **Apache Airflow**: For orchestrating the ETL process.
+  - Installation: `pip install apache-airflow`
+  - Import: `import airflow`
+
 ## Setup
 
 1. **Clone the Repository:**
@@ -28,10 +54,6 @@ pip install -r requirements.txt
    DB_NAME=your_database_name
    DB_USER=your_database_user
    DB_PASS=your_database_password
-
-## Project Mind Map
-- Check the below for a graphical representation of the Project Mind Map.
-![image](https://github.com/user-attachments/assets/1fc3f4fc-4f6d-47cc-a894-d5ff5b098003)
 
 ## "Do-Not-Forget" Section
 - Input all user settings in the uploaded scripts such as
