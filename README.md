@@ -47,6 +47,6 @@ The project is built using Python for data processing, MySQL for data storage, a
 - **Automation**: Automated the data collection and storage process, reducing manual intervention.
 
 ## Getting Started
-Refer to the INSTRUCTIONS.md file for detailed steps on setting up and running the ETL pipeline.
+Refer to the [INSTRUCTIONS](https://github.com/IstinNew/ETL-Pipeline-Ganz-Project/blob/main/INSTRUCTIONS.md) file for detailed steps on setting up and running the ETL pipeline.
 
 Happy data processing! 😊📊✨
